@@ -1,6 +1,6 @@
 package no.hvl.dat100.jplab11.oppgave7;
 
-import java.io.IOException;
+import java.io.IOException; 
 import java.net.ServerSocket;
 
 public class WebServer {

@@ -1,6 +1,7 @@
 package no.hvl.dat100.jplab11.oppgave5;
 
 import java.io.BufferedReader;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -21,8 +22,8 @@ public class LesBlogg {
 	private static String BILDE = "BILDE";
 
 	public static Blogg les(String mappe, String filnavn) {
-
 		throw new UnsupportedOperationException(TODO.method());
+		
 
 	}
 }
